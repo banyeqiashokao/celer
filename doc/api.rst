@@ -21,6 +21,8 @@ Estimators
 .. autosummary::
    :toctree: generated/
 
+   AdaptiveLasso
+   AdaptiveLassoCV
    GroupLasso
    GroupLassoCV
    Lasso
